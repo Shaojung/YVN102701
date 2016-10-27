@@ -94,5 +94,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/seekBar"
         android:layout_alignEnd="@+id/button2"
-        android:id="@+id/button5" />
+        android:id="@+id/button5"
+        android:onClick="click3" />
 </RelativeLayout>
